@@ -16,7 +16,7 @@
 
     Zero-dependency: Не требует установки дополнительного ПО, работает «из коробки» на любой современной Windows.
 
-    Native Shell: Написано на [PowerShell / Batch — выбери нужное].
+    Native Shell: Написано на PowerShell.
 
 ### 📋 Использование
 
